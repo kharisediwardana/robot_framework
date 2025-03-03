@@ -3,8 +3,8 @@ Library  Selenium2Library
 Library  DebugLibrary
 
 
-resource  pageObject/logic.robot
-resource  pageObject/page.robot
+resource  pageObject/mainPage.robot
+resource  pageObject/checkoutPage.robot
 
 
 *** Variables ***
